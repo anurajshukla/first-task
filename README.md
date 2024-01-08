@@ -1,4 +1,4 @@
-First Task:
+<b> <b> First Task: </b> </b>
 
 Create an application to parse the JSON from the API mentioned below. <br>
 <b>Endpoint: </b> "https://s3.amazonaws.com/open-to-cors/assignment.json"
