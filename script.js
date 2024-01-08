@@ -21,6 +21,7 @@ fetch('https://s3.amazonaws.com/open-to-cors/assignment.json')
         card.classList.add('product-card');
         card.innerHTML = `
             <h3>${product.title}</h3>
+            <p>Subcategory: ${product.subcategory}</p>
             <p>Price: $${product.price}</p>
             <p>Popularity: ${product.popularity}</p>
         `;
