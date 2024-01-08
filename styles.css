@@ -19,9 +19,6 @@ body {
 .product-card:hover {
     transform: scale(1.05);
 }
-.product-card-content {
-    padding: 16px;
-}
 h3 {
     margin-top: 0;
 }
